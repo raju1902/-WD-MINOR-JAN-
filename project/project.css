@@ -1,0 +1,129 @@
+body{
+   background-color:wheat;
+}
+.name{
+background-color:rgb(158, 158, 87);
+ padding:30px; 
+font-style: italic;
+ 
+}
+.menu{
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    width: 25%;
+
+    
+}
+.menuitem{
+    margin-top: 7px;
+    padding: 10px;
+    font-size:17px;
+    font-style: oblique;
+    color:solid black; 
+    border-bottom: 1px solid rgb(199, 191, 191);
+}
+.img{
+    float: left;
+    width: 60%;
+    padding: 0px 20px;  
+   
+}
+
+ 
+
+.pargraph{
+    text-align: center;
+    list-style-type: upper-alpha;
+
+}
+.item{
+    color:#000;
+    padding: 50px 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.tesla{
+    width:100%;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    float:left;
+    margin-left:1%;
+}
+.image{
+    display: block;
+    float: left;
+    width: 50%;
+    padding: 0px 20px;
+ 
+}
+.item1{
+    color:#000;
+    padding: 0px 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.space{
+    width:100%;
+    display:block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    float:left;
+    margin-left:1%;
+}
+.image2{
+    display: block;
+    float: left;
+    width: 50%;
+    padding: 0px 20px;
+ 
+}
+
+
+.item2{
+    color:#000;
+    padding: 0px 20px;
+    font-weight: bold;
+    text-align: center;
+}
+.paypal{
+    width:100%;
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 5px;
+    float:left;
+    margin-left:1%;
+}
+.image3{
+    display: block;
+    float: left;
+    width: 50%;
+    padding: 0px 20px;
+ 
+}
+
+.contact{
+    width:25%;
+  margin:auto;
+ overflow:hidden;
+ font-weight: bold;
+ font-style: oblique;
+ padding: 10px 0; 
+  background-color:grey;
+  color:wheat;
+ bottom: 0;
+text-align: center;  
+}
